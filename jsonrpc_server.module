@@ -3,8 +3,8 @@
 
 function jsonrpc_server_server_info() {
   return array(
-    '#name' => 'JSON-RPC',
-    '#path' => 'json-rpc',
+    'name' => 'JSON-RPC',
+    'path' => 'json-rpc',
   );
 }
 
